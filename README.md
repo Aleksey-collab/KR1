@@ -1,7 +1,7 @@
 # Итоговая контрольная работа
 
-Перейти по ссылке: https://github.com/Aleksey-collab/KR1/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/Screenshot_2.png
-Перейти по ссылке: https://github.com/Aleksey-collab/KR1/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/Screenshot_5.png
+Задания 1-3. Перейти по ссылке: https://github.com/Aleksey-collab/KR1/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/Screenshot_2.png
+Задания 4-6. Перейти по ссылке: https://github.com/Aleksey-collab/KR1/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/Screenshot_5.png
 Перейти по ссылке: https://github.com/Aleksey-collab/KR1/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/Screenshot_6.png
 Перейти по ссылке: https://github.com/Aleksey-collab/KR1/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/Screenshot_7.png
 Перейти по ссылке: https://github.com/Aleksey-collab/KR1/blob/main/%D0%A1%D0%BA%D1%80%D0%B8%D0%BD%D1%88%D0%BE%D1%82%D1%8B/Screenshot_8.png
@@ -9,6 +9,7 @@
 
 13.Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
 Перейти по ссылке: https://github.com/Aleksey-collab/KR1/blob/main/pets.py
+
 14. В программе должен быть реализован следующий функционал:                                                                                                                 
 14.1 Завести новое животное
 14.2 определять животное в правильный класс
