@@ -8,6 +8,7 @@
 ![image](https://github.com/Aleksey-collab/KR1/assets/107406750/491e3648-3141-43c1-b9b7-34814470e6b7)
 ![image](https://github.com/Aleksey-collab/KR1/assets/107406750/0c36e6f5-2cfc-4b72-8866-74b5516e1309)
 ![image](https://github.com/Aleksey-collab/KR1/assets/107406750/5b9145be-83e6-428c-9663-e3c7057b5652)
+13.Создать класс с Инкапсуляцией методов и наследованием по диаграмме.
 ![image](https://github.com/Aleksey-collab/KR1/assets/107406750/1afe2d52-c9b3-42aa-876e-84a08d3b4fe9)
 
 
