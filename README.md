@@ -41,6 +41,7 @@ https://github.com/Aleksey-collab/KR1/blob/main/configs.py
 https://github.com/Aleksey-collab/KR1/blob/main/db_io.py
 https://github.com/Aleksey-collab/KR1/blob/main/main.py
 https://github.com/Aleksey-collab/KR1/blob/main/pack_animals.py
+
 15.Создайте класс Счетчик, у которого есть метод add(), увеличивающий̆
 значение внутренней̆int переменной̆на 1 при нажатие “Завести новое
 животное” Сделайте так, чтобы с объектом такого типа можно было работать в
